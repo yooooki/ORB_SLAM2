@@ -19,3 +19,6 @@ To prevent some problems cause by there is only one keyframe after initializing,
 Whe the map was already created, system will try to transform it's coordinate to the marker's.
 The camera pose of each keyframe and the position of each keypoint will be transformed and rescale.
 This currently works only once.
+
+# Others
+You can generate Marker5 online: http://23.83.226.34/index.html
